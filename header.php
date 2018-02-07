@@ -6,6 +6,7 @@
  *
  * @package First
  */
+
 ?><!DOCTYPE html>
 <!--[if IE 8]>
 <html class="ie8" <?php language_attributes(); ?>>
