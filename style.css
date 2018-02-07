@@ -1,0 +1,16 @@
+/*
+Theme Name: First Child Theme
+Author: Ulrike Schuster
+Author URI: http://www.uliquitous.com/
+Description: This is a child theme of the parent theme First.
+Version. 0.1.
+Template: first
+*/
+@import url("../first/style.css");
+
+
+
+.site-slider {
+	position: fixed;
+}
+
